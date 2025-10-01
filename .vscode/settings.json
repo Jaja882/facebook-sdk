@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.accessibilitySupport": "on",
+    "editor.autoIndentOnPaste": true,
+    "editor.defaultFormatter": "GitHub.copilot",
+    "editor.experimentalGpuAcceleration": "on",
+    "editor.gotoLocation.alternativeReferenceCommand": "editor.action.referenceSearch.trigger",
+    "editor.inertialScroll": true,
+    "editor.linkedEditing": true,
+    "diffEditor.codeLens": true,
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+    "typescript.tsserver.enableTracing": true,
+    "python.linting.pylintEnabled": true
+}
